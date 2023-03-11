@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning everyting 🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to play guitar and play video games
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=benjaminhoegh&show_icons=true&locale=en" alt="benjaminhoegh" />
 
